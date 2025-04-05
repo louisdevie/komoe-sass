@@ -1,3 +1,6 @@
+> [!NOTE]
+> Development has moved to [https://github.com/louisdevie/komoe](https://github.com/louisdevie/komoe)
+
 # Sass plugin for Komoe
 
 # Installation
